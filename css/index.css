@@ -1,0 +1,39 @@
+.logo{
+    margin-left: -385px;
+}
+
+
+.header{
+ list-style: none;
+ overflow: hidden;
+ margin-top: 12%;
+}
+.header .item {
+ float: left;
+ width: 144px;
+ line-height: 5;
+ text-align: center;
+ color: #ffff;
+
+}
+.header .item1 {
+    background-image: url('../img/1.png');
+    background-repeat: no-repeat;
+    background-position-y:50%
+}
+.header .item2 {
+    background-image: url('../img/2.png');
+    background-repeat: no-repeat;
+    background-position-y:165%
+}
+.header .item3 {
+    background-image: url('../img/3.png');
+    background-repeat: no-repeat;
+    background-position-y:180%
+}
+
+.header .item4 {
+    background-image: url('../img/4.png');
+    background-repeat: no-repeat;
+    background-position-y:100%
+}
