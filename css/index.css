@@ -1,7 +1,9 @@
 /* .logo{
     margin-left: -385px;
 } */
-
+.sun{
+    margin-left: -120%;
+}
 .container{
     border-left: 2px dashed #a1a1a1;
     border-right: 2px dashed #a1a1a1;
@@ -12,7 +14,7 @@
 .footer{
 
     padding-top: 8%;
-    padding-bottom: 4%;
+    padding-bottom: 0%;
 }
 .header{
  list-style: none;
@@ -73,4 +75,56 @@
     border-radius:25px;
     height: 130%;
     border-color:greenyellow; 
+}
+
+.noticeheader {
+    border: 2px dashed #a1a1a1;
+    border-radius: 75px;
+    height: 21%;
+    border-color: #ff722f;
+    margin-top: -20%;
+}
+.noticeimg{
+    margin-left: -11%;
+    margin-top: -8%;
+}
+.noticetext{
+    margin-left: 8%;
+    margin-top: -17%;
+    text-align: center;
+    font-size: 18px;
+    font-family: fantasy;
+}
+
+.lu{
+    margin-left: -65%;
+    margin-top: -23%;
+    position: relative;
+    z-index: 2;
+}
+
+.threeperson{
+    margin-top: -74%;
+    margin-left: 23%;
+    position: relative;
+    z-index: 2;
+}
+
+.hill{
+    margin-left: -293%;
+    z-index: 1;
+    position: relative;
+    margin-top: -35%;
+}
+.zhalan{
+    margin-top: -35%;
+    margin-left: 12%;
+    position: relative;
+    z-index: 3;
+}
+.zhalan1{
+    margin-left: -103%;
+    margin-top: -42%;
+    position: relative;
+    z-index: 3;
 }
